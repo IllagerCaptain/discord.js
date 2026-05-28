@@ -86,7 +86,7 @@
 		"prettier": "^3.6.2",
 		"supertest": "^7.1.4",
 		"tsup": "^8.5.0",
-		"turbo": "^2.5.8",
+		"turbo": "^2.9.14",
 		"typescript": "~5.9.3",
 		"vitest": "^3.2.4"
 	},

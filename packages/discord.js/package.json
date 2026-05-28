@@ -96,7 +96,7 @@
     "eslint-plugin-jsdoc": "^54.7.0",
     "prettier": "^3.6.2",
     "tsd": "^0.33.0",
-    "turbo": "^2.5.8",
+    "turbo": "^2.9.14",
     "typescript": "~5.9.3"
   },
   "engines": {

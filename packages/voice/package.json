@@ -88,7 +88,7 @@
 		"tsup": "^8.5.0",
 		"turbo": "^2.5.8",
 		"typescript": "~5.9.3",
-		"vitest": "^3.2.4",
+		"vitest": "^4.1.0",
 		"vitest-websocket-mock": "^0.5.0"
 	},
 	"engines": {
